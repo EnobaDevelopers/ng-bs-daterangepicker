@@ -5,7 +5,7 @@
   "main": "./src/ng-bs-daterangepicker.js",
   "dependencies": {
     "angular": ">= 1.0.7",
-    "bootstrap-daterangepicker": "git://github.com/EnobaDevelopers/bootstrap-daterangepicker.git#ef481e8dee5f8c26edc7ab130051be92559fc791",
+    "bootstrap-daterangepicker": "git://github.com/EnobaDevelopers/bootstrap-daterangepicker.git#4a0ab3cee86dc92506ea031051fb767de7416169",
     "bootstrap": "~3.0.0"
   },
   "devDependencies": {
